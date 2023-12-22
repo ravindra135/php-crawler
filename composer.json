@@ -1,0 +1,18 @@
+{
+    "name": "rk-pc/ws",
+    "autoload": {
+        "psr-4": {
+            "RkPc\\Ws\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ravindra2k",
+            "email": "ravindra@remedio.co.in"
+        }
+    ],
+    "require": {
+        "spekulatius/phpscraper": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
